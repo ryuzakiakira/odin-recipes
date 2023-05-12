@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.description{
+    text-align: center;
+    font-weight: 500;
+}
